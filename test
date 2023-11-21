@@ -1,0 +1,277 @@
+{
+  "con": true,
+  "title": "Temporary Server Error",
+  "subtitle": "Please Update Football Application",
+  "link": "https://play.google.com/store/apps/details?id=omegle.tv",
+  "uriversion": "1.0",
+  "uriversionDetails": "Ui fix So Please Update",
+  "leagues": [
+     {
+          "home_team": {
+            "name": "Manchester United",
+            "logo": "https://th.hoofoot.com/clubs/Arsenal.png"
+          },
+          "away_team": {
+            "name": "Shaffield United",
+            "logo": "https://th.hoofoot.com/clubs/Arsenal.png"
+          },
+          "time": "2:20 PM",
+          "month": "September",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "match1_link1_url"
+            },
+            {
+              "name": "Link 2",
+              "url": "match1_link2_url"
+            }
+          ]
+        },
+     {
+          "home_team": {
+            "name": "Manchester United",
+            "logo": "https://th.hoofoot.com/clubs/Arsenal.png"
+          },
+          "away_team": {
+            "name": "Shaffield United",
+            "logo": "https://th.hoofoot.com/clubs/Arsenal.png"
+          },
+          "time": "2:20 PM",
+          "month": "September",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "match1_link1_url"
+            },
+            {
+              "name": "Link 2",
+              "url": "match1_link2_url"
+            }
+          ]
+        },
+    {
+      "name": "Premier League",
+      "matches": [
+
+ {
+          "home_team": {
+            "name": "Manchester United",
+            "logo": "https://th.hoofoot.com/clubs/Arsenal.png"
+          },
+          "away_team": {
+            "name": "Shaffield United",
+            "logo": "https://th.hoofoot.com/clubs/Arsenal.png"
+          },
+          "time": "2:20 PM",
+          "month": "September",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "match1_link1_url"
+            },
+            {
+              "name": "Link 2",
+              "url": "match1_link2_url"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "Team A",
+            "logo": "https://th.hoofoot.com/clubs/Manchester U.png"
+          },
+          "away_team": {
+            "name": "Team B",
+            "logo": "https://th.hoofoot.com/clubs/Manchester U.png"
+          },
+          "time": "5:20 AM",
+          "month": "September",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "match1_link1_url"
+            },
+            {
+              "name": "Link 2",
+              "url": "match1_link2_url"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "Team C",
+            "logo": "https://th.hoofoot.com/clubs/Manchester U.png"
+          },
+          "away_team": {
+            "name": "Team D",
+            "logo": "https://th.hoofoot.com/clubs/Manchester U.png"
+          },
+          "time": "6:0 PM",
+          "month": "September",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "match2_link1_url"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Liga",
+      "matches": [
+  {
+          "home_team": {
+            "name": "Team A",
+            "logo": "https://th.hoofoot.com/clubs/Manchester U.png"
+          },
+          "away_team": {
+            "name": "Team B",
+            "logo": "https://th.hoofoot.com/clubs/Manchester U.png"
+          },
+          "time": "2:20 AM",
+          "month": "September",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "match1_link1_url"
+            },
+            {
+              "name": "Link 2",
+              "url": "match1_link2_url"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "Team A",
+            "logo": "https://th.hoofoot.com/clubs/Manchester U.png"
+          },
+          "away_team": {
+            "name": "Team B",
+            "logo": "https://th.hoofoot.com/clubs/Manchester U.png"
+          },
+          "time": "1:40 AM",
+          "month": "September",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "match1_link1_url"
+            },
+            {
+              "name": "Link 2",
+              "url": "match1_link2_url"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "Team C",
+            "logo": "https://th.hoofoot.com/clubs/Manchester U.png"
+          },
+          "away_team": {
+            "name": "Team D",
+            "logo": "https://th.hoofoot.com/clubs/Manchester U.png"
+          },
+          "time": "9:0 PM",
+          "month": "September",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "match2_link1_url"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Serie A",
+      "matches": [
+        {
+          "home_team": {
+            "name": "Team E",
+            "logo": "https://th.hoofoot.com/clubs/Manchester U.png"
+          },
+          "away_team": {
+            "name": "Team F",
+            "logo": "https://th.hoofoot.com/clubs/Manchester U.png"
+          },
+          "time": "1:50 AM",
+          "month": "September",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "match3_link1_url"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "Team G",
+            "logo": "https://th.hoofoot.com/clubs/Manchester U.png"
+          },
+          "away_team": {
+            "name": "Team H",
+            "logo": "https://th.hoofoot.com/clubs/Manchester U.png"
+          },
+          "time": "6:3 AM",
+          "month": "September",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "match4_link1_url"
+            },
+            {
+              "name": "Link 2",
+              "url": "match4_link2_url"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Other League",
+      "matches": [
+        {
+          "home_team": {
+            "name": "Team I",
+            "logo": "https://th.hoofoot.com/clubs/Manchester U.png"
+          },
+          "away_team": {
+            "name": "Team J",
+            "logo": "https://th.hoofoot.com/clubs/Manchester U.png"
+          },
+          "time": "7:40 AM",
+          "month": "September",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "match5_link1_url"
+            },
+            {
+              "name": "Link 2",
+              "url": "match5_link2_url"
+            }
+          ]
+        },
+        {
+          "home_team": {
+            "name": "Team K",
+            "logo": "https://th.hoofoot.com/clubs/Manchester U.png"
+          },
+          "away_team": {
+            "name": "Team L",
+            "logo": "https://th.hoofoot.com/clubs/Manchester U.png"
+          },
+          "time": "7:4 PM",
+          "month": "September",
+          "links": [
+           
+          ]
+        }
+      ]
+    }
+  ]
+}
