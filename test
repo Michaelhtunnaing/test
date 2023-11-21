@@ -6,50 +6,29 @@
   "uriversion": "1.0",
   "uriversionDetails": "Ui fix So Please Update",
   "leagues": [
-     {
-          "home_team": {
-            "name": "Manchester United",
-            "logo": "https://th.hoofoot.com/clubs/Arsenal.png"
-          },
-          "away_team": {
-            "name": "Shaffield United",
-            "logo": "https://th.hoofoot.com/clubs/Arsenal.png"
-          },
-          "time": "2:20 PM",
-          "month": "September",
-          "links": [
-            {
-              "name": "Link 1",
-              "url": "match1_link1_url"
-            },
-            {
-              "name": "Link 2",
-              "url": "match1_link2_url"
-            }
-          ]
-        },
-     {
-          "home_team": {
-            "name": "Manchester United",
-            "logo": "https://th.hoofoot.com/clubs/Arsenal.png"
-          },
-          "away_team": {
-            "name": "Shaffield United",
-            "logo": "https://th.hoofoot.com/clubs/Arsenal.png"
-          },
-          "time": "2:20 PM",
-          "month": "September",
-          "links": [
-            {
-              "name": "Link 1",
-              "url": "match1_link1_url"
-            },
-            {
-              "name": "Link 2",
-              "url": "match1_link2_url"
-            }
-          ]
-        },
+    {"hname":"Dd",
+    "hlogo":"",
+      "aname":"Away Team",
+      "alogo":"",
+      "month":"Desinbar",
+      "time":"10:0",
+      "links":[
+        {"name":"d1",
+        "url":""}
+      ]
+    },
+    {
+      "hname":"Dd",
+    "hlogo":"",
+      "aname":"Away Team",
+      "alogo":"",
+      "month":"Desinbar",
+      "time":"10:0",
+      "links":[
+        {"name":"d1",
+        "url":""}
+      ]
+    },
     {
       "name": "Premier League",
       "matches": [
